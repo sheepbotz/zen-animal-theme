@@ -1,0 +1,12 @@
+{
+  "manifest_version": 1,
+  "name": "Animal Theme",
+  "version": "1.0",
+  "type": "theme",
+  "author": "YOUR_NAME",
+  "description": "A custom Zen browser theme with animal styling.",
+  "entrypoints": {
+    "userChrome": "userChrome.css",
+    "userContent": "userContent.css"
+  }
+}
