@@ -4,9 +4,8 @@
   "version": "1.0",
   "type": "theme",
   "author": "YOUR_NAME",
-  "description": "A custom Zen browser theme with animal styling.",
+  "description": "A custom Zen browser theme.",
   "entrypoints": {
-    "userChrome": "userChrome.css",
-    "userContent": "userContent.css"
+    "userChrome": "userChrome.css"
   }
 }
